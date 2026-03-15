@@ -133,6 +133,6 @@ My resume can be found in the Resume section of this repository.
 
 # 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/alyira
-\nGitHub: https://github.com/halya-maker
+- LinkedIn: https://www.linkedin.com/in/alyira
+- GitHub: https://github.com/halya-maker
 
