@@ -6,7 +6,7 @@ The Pre Security learning path on TryHackMe introduces the fundamental concepts 
 
 Status: 70% Completed
 
-## Module 1: Introduction to Cyber Security
+## Module 1: Introduction to Cyber Security ✅
 
 ### Topics Covered
 - Offensive Security
@@ -20,7 +20,7 @@ Status: 70% Completed
 
 ---
 
-## Module 2: Network Fundamentals
+## Module 2: Network Fundamentals ✅
 
 ### Topics Covered
 - What is Networking
@@ -36,7 +36,7 @@ Status: 70% Completed
 
 ---
 
-## Module 3: How The Web Works
+## Module 3: How The Web Works ✅
 
 ### Topics Covered
 - How Websites Work
@@ -51,7 +51,7 @@ Status: 70% Completed
 
 ---
 
-## Module 4: Computer Fundamentals
+## Module 4: Computer Fundamentals ✅
 
 ### Topics Covered
 - Computer Types
@@ -67,7 +67,7 @@ Status: 70% Completed
 
 ---
 
-## Module 5: Operating Systems Basics
+## Module 5: Operating Systems Basics (30% completed)
 
 ### Topics Covered
 - Windows Basics
