@@ -11,10 +11,11 @@ Welcome to my cybersecurity learning and project portfolio.
 ## Projects
 - DNS Performance Toolkit (Final Year Project)
 
-## Platforms
-- TryHackMe
+## Cybersecurity Learning Platforms
+
+- TryHackMe (Pre Security, Cyber Security 101, SOC Level 1, SOC Level 2)
 - Google Cybersecurity Certificate
-- ISC2
+- ISC2 Certified in Cybersecurity
 
 ## Tools
 - Wireshark
