@@ -5,7 +5,9 @@ The Pre Security learning path on TryHackMe introduces the fundamental concepts 
 ---
 
 Status: 70% Completed
+
 Platform: TryHackMe
+
 Learning Path: Pre Security
 
 ## Module 1: Introduction to Cyber Security
