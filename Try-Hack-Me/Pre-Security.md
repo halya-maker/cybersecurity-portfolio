@@ -67,7 +67,7 @@ Status: 70% Completed
 
 ---
 
-## Module 5: Operating Systems Basics (30% completed)
+## Module 5: Operating Systems Basics ✅
 
 ### Topics Covered
 - Windows Basics
