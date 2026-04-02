@@ -7,6 +7,12 @@ This course focuses on switching technologies, routing fundamentals, and wireles
 
 ---
 
+## 📜 Certificate Preview
+
+![Enterprise Networking, Security, and Automation](./CCNA%20Enterprise%20Networking,%20Security,%20and%20Automation.png)
+
+---
+
 ## Key Topics Learned
 
 ### Switching Concepts
