@@ -6,7 +6,7 @@ This certificate is part of the Google Cybersecurity Professional Certificate pr
 
 ## 📜 Certificate Preview
 
-![Certificate](../../Asset/google-cybersecurity-cert(1).png)
+![Certificate Page 1](../../Asset/google-cybersecurity-cert-1.png)
 
 ---
 
