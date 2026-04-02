@@ -56,7 +56,7 @@ This learning path provides foundational knowledge in cybersecurity, covering ne
 
 ## 🔗 View Certificate
 
-👉 [View Full Certificate](./THM-Pre-Security-Learning-Path-Certificate.pdf)
+👉 [View Full Certificate](../assets/THM-Pre-Security-Learning-Path-Certificate.pdf)
 
 ---
 
