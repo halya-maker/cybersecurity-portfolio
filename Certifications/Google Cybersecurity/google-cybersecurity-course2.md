@@ -12,7 +12,7 @@ This certificate is part of the Google Cybersecurity Professional Certificate pr
 
 ## 🔗 View Full Certificate
 
-[Click here to view the PDF](../Play%It%Safe%Manage%Security%Risks%Certificate.pdf)
+[Click here to view the PDF](./Play%20It%20Safe%20Manage%20Security%20Risks%20Certificate.pdf)
 
 ---
 
