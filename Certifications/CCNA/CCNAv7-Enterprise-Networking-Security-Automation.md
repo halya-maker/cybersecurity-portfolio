@@ -9,7 +9,7 @@ This course focuses on enterprise network design, advanced routing concepts, net
 
 ## 📜 Certificate Preview
 
-![Enterprise Networking, Security, and Automation](./CCNAv7%20Introduction%20to%20Networks.png)
+![Enterprise Networking, Security, and Automation](./CCNA%20Enterprise%20Networking,%20Security,%20and%20Automation.png)
 
 ---
 
