@@ -9,7 +9,7 @@ This course introduces the fundamental concepts of networking, including network
 
 ## 📜 Certificate Preview
 
-![Introduction to Networks](./CCNAv7%20Introduction%20to%20Networks.png)
+![Introduction to Networks](../assets/CCNAv7%20Introduction%20to%20Networks.jpg)
 
 ---
 
