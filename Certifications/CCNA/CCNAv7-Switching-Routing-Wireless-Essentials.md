@@ -9,7 +9,7 @@ This course focuses on switching technologies, routing fundamentals, and wireles
 
 ## 📜 Certificate Preview
 
-![Enterprise Networking, Security, and Automation](./CCNA%20Enterprise%20Networking,%20Security,%20and%20Automation.png)
+![Switching, Routing, and Wireless Essentials](./CCNAv7%20Switching,%20Routing,%20and%20Wireless%20Essentials.png)
 
 ---
 
