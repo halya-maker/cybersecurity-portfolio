@@ -12,6 +12,19 @@ My goal is to grow into a cybersecurity professional capable of monitoring, anal
 
 ---
 
+# 📄 Resume
+
+My resume can be found in the Resume section of this repository.
+![CV](Resume/'AlyaHumaira_SOC_CV.pdf)
+
+---
+
+# 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/alyira
+- GitHub: https://github.com/halya-maker
+
+
 # 🎓 Education
 
 **Bachelor of Computer Networks**
@@ -122,17 +135,4 @@ It includes:
 * Network traffic analysis
 * Security tools exploration
 * DNS performance research
-
----
-
-# 📄 Resume
-
-My resume can be found in the Resume section of this repository.
-
----
-
-# 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/alyira
-- GitHub: https://github.com/halya-maker
 
