@@ -7,6 +7,12 @@ This course focuses on enterprise network design, advanced routing concepts, net
 
 ---
 
+## 📜 Certificate Preview
+
+![Enterprise Networking, Security, and Automation](./CCNAv7%20Introduction%20to%20Networks.png)
+
+---
+
 ## Key Topics Learned
 
 ### Enterprise Network Architecture
