@@ -9,7 +9,7 @@ This course focuses on switching technologies, routing fundamentals, and wireles
 
 ## 📜 Certificate Preview
 
-![Switching, Routing, and Wireless Essentials](./CCNAv7%20Switching,%20Routing,%20and%20Wireless%20Essentials.png)
+![Switching, Routing, and Wireless Essentials](../assets/CCNAv7%20Switching,%20Routing,%20and%20Wireless%20Essentials.jpg)
 
 ---
 
