@@ -7,6 +7,12 @@ This course introduces the fundamental concepts of networking, including network
 
 ---
 
+## 📜 Certificate Preview
+
+![Introduction to Networks](./THM-PreSecurity-LP.png)
+
+---
+
 ## Key Topics Learned
 
 ### Network Fundamentals
