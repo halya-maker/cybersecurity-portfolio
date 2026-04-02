@@ -25,6 +25,7 @@ My resume can be found in the Resume section of this repository.
 - LinkedIn: https://www.linkedin.com/in/alyira
 - GitHub: https://github.com/halya-maker
 
+---
 
 # 🎓 Education
 
