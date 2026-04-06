@@ -9,6 +9,14 @@ Welcome to my cybersecurity learning and project portfolio.
 - DNS Performance Analysis
 
 ## Projects
+
+### 🔐 SQL Security Analysis
+- Applied SQL filters to investigate login activity and employee data  
+- Identified after-hours logins, suspicious locations, and department-based records  
+- Used `AND`, `OR`, `NOT`, and `LIKE` operators  
+
+👉 [View Project](./Projects/sql-security-analysis)
+
 - DNS Performance Toolkit (Final Year Project)
 
 ## Cybersecurity Learning Platforms
