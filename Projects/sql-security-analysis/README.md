@@ -49,7 +49,7 @@ This query filters login attempts from countries other than Mexico. First, all r
 
 The output includes login attempts from countries such as the USA and Canada.
 
-
+![Task 3](./screenshots/task-3.png)
 
 ## 🔍 Retrieve employees in Marketing
 
