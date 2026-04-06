@@ -19,7 +19,7 @@ The output shows 19 rows, indicating multiple failed login attempts outside busi
 
 
 
-🔍 Retrieve login attempts on specific dates
+## 🔍 Retrieve login attempts on specific dates
 
 A suspicious event occurred on 2022-05-09, so login activity on that date and the previous day needed to be analyzed.
 
@@ -35,7 +35,7 @@ The output shows 75 rows, confirming that all login attempts from both dates wer
 
 
 
-🔍 Retrieve login attempts outside of Mexico
+## 🔍 Retrieve login attempts outside of Mexico
 
 Login attempts originating outside of Mexico were identified for further investigation.
 
@@ -51,7 +51,7 @@ The output includes login attempts from countries such as the USA and Canada.
 
 
 
-🔍 Retrieve employees in Marketing
+## 🔍 Retrieve employees in Marketing
 
 Employee machines in the Marketing department located in East offices needed to be updated.
 
@@ -65,7 +65,7 @@ This query retrieves employees in the Marketing department within East office lo
 
 
 
-🔍 Retrieve employees in Finance or Sales
+## 🔍 Retrieve employees in Finance or Sales
 
 Employees in the Finance and Sales departments required a separate system update.
 
@@ -81,7 +81,7 @@ The output shows 71 rows, confirming that employees from both departments were s
 
 
 
-🔍 Retrieve employees not in IT
+## 🔍 Retrieve employees not in IT
 
 Employees outside the Information Technology department needed to be identified.
 
