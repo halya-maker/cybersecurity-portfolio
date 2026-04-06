@@ -79,7 +79,7 @@ This query retrieves employees from either department using the OR operator.
 
 The output shows 71 rows, confirming that employees from both departments were successfully retrieved.
 
-
+![Task 5](./screenshots/task-5.png)
 
 ## Task 6: Retrieve employees not in IT
 
@@ -95,7 +95,7 @@ This query excludes employees from the IT department using the NOT operator.
 
 The output shows 161 rows, confirming that all non-IT employees were retrieved successfully.
 
-
+![Task 6](./screenshots/task-6.png)
 
 ## Summary
 
