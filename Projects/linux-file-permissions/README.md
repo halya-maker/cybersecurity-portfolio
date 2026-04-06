@@ -10,7 +10,7 @@ This project demonstrates how Linux commands are used to examine and modify perm
 
 ## Check File and Directory Details
 
-![Figure 1](figure1_ls-la.png)
+![Figure 1](./screenshots/figure1_ls-la.png)
 
 The `ls -la` command is used to display a detailed listing of files and directories, including hidden files.
 
@@ -54,7 +54,7 @@ Example:
 
 ## Change File Permissions
 
-![Figure 2](figure2_chmod.png)
+![Figure 2](./screenshots/figure2_chmod.png)
 
 Command used:
 
@@ -70,7 +70,7 @@ The changes are verified using `ls -la`.
 
 ## Change Permissions on a Hidden File
 
-![Figure 3](figure3_hidden.png)
+![Figure 3](./screenshots/figure3_hidden.png)
 
 Command used:
 
@@ -89,7 +89,7 @@ Hidden files (starting with `.`) require careful permission handling.
 
 ## Change Directory Permissions
 
-![Figure 4](figure4_directory.png)
+![Figure 4](./screenshots/figure4_directory.png)
 
 Command used:
 
