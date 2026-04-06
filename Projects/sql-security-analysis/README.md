@@ -17,7 +17,7 @@ This query filters for failed login attempts after 18:00. First, all records wer
 
 The output shows 19 rows, indicating multiple failed login attempts outside business hours.
 
-![Task 1](./screenshots/Task-1.png)
+![Task 1](./screenshots/task-1.png)
 
 ## 🔍 Retrieve login attempts on specific dates
 
@@ -33,7 +33,7 @@ This query retrieves login attempts from two specific dates. First, all records 
 
 The output shows 75 rows, confirming that all login attempts from both dates were successfully retrieved.
 
-
+![Task 2](./screenshots/task-2.png)
 
 ## 🔍 Retrieve login attempts outside of Mexico
 
