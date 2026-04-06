@@ -97,6 +97,6 @@ The output shows 161 rows, confirming that all non-IT employees were retrieved s
 
 
 
-🎯 Summary
+## 🎯 Summary
 
 This project demonstrates how SQL filtering techniques can be applied to analyze security-related data. By using logical operators (AND, OR, NOT) and pattern matching (LIKE), specific and relevant data can be extracted efficiently.
