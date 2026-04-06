@@ -45,7 +45,3 @@ My resume can be found in the Resume section of this repository.
 - Wireshark
 - Nmap
 - SIEM
-
-## Author
-Alya Humaira
-Cybersecurity Student | Aspiring SOC Analyst
