@@ -1,9 +1,9 @@
-# 🔐 Apply Filters to SQL Queries (Security Analysis)
+# Apply Filters to SQL Queries (Security Analysis) based from Google Cybersecurity Professional Certificate
 
-## 📌 Project Description
+## Project Description
 This project focuses on using SQL filtering techniques to investigate potential security issues and retrieve specific employee and login data. The analysis simulates real-world tasks such as detecting suspicious login activity and identifying employees requiring system updates.
 
-## 🔍 Retrieve after hours failed login attempts
+## Task 1: Retrieve after hours failed login attempts
 
 A potential security incident occurred after business hours (after 18:00), so failed login attempts during this period needed to be investigated.
 
@@ -19,7 +19,7 @@ The output shows 19 rows, indicating multiple failed login attempts outside busi
 
 ![Task 1](./screenshots/task-1.png)
 
-## 🔍 Retrieve login attempts on specific dates
+## Task 2: Retrieve login attempts on specific dates
 
 A suspicious event occurred on 2022-05-09, so login activity on that date and the previous day needed to be analyzed.
 
@@ -35,7 +35,7 @@ The output shows 75 rows, confirming that all login attempts from both dates wer
 
 ![Task 2](./screenshots/task-2.png)
 
-## 🔍 Retrieve login attempts outside of Mexico
+## Task 3: Retrieve login attempts outside of Mexico
 
 Login attempts originating outside of Mexico were identified for further investigation.
 
@@ -51,7 +51,7 @@ The output includes login attempts from countries such as the USA and Canada.
 
 ![Task 3](./screenshots/task-3.png)
 
-## 🔍 Retrieve employees in Marketing
+## Task 4: Retrieve employees in Marketing
 
 Employee machines in the Marketing department located in East offices needed to be updated.
 
@@ -63,9 +63,9 @@ WHERE department = 'Marketing' AND office LIKE 'East%';
 
 This query retrieves employees in the Marketing department within East office locations. First, all records were selected from the employees table. Then, the AND operator was used to combine department and office conditions.
 
+![Task 4](./screenshots/task-4.png)
 
-
-## 🔍 Retrieve employees in Finance or Sales
+## Task 5: Retrieve employees in Finance or Sales
 
 Employees in the Finance and Sales departments required a separate system update.
 
@@ -81,7 +81,7 @@ The output shows 71 rows, confirming that employees from both departments were s
 
 
 
-## 🔍 Retrieve employees not in IT
+## Task 6: Retrieve employees not in IT
 
 Employees outside the Information Technology department needed to be identified.
 
@@ -97,6 +97,6 @@ The output shows 161 rows, confirming that all non-IT employees were retrieved s
 
 
 
-## 🎯 Summary
+## Summary
 
 This project demonstrates how SQL filtering techniques can be applied to analyze security-related data. By using logical operators (AND, OR, NOT) and pattern matching (LIKE), specific and relevant data can be extracted efficiently.
