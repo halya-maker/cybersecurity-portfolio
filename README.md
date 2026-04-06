@@ -26,6 +26,15 @@ My resume can be found in the Resume section of this repository.
 
 ## Projects
 
+### Linux File Permissions (Security Lab)
+
+* Analyzed file and directory permissions in Linux environments
+* Identified misconfigured access rights and applied least privilege principles
+* Modified permissions for files, hidden files, and directories
+* Used `ls -la` and `chmod` commands
+
+👉 [View Project](./Projects/linux-file-permissions)
+
 ### SQL Security Analysis
 - Applied SQL filters to investigate login activity and employee data  
 - Identified after-hours logins, suspicious locations, and department-based records  
