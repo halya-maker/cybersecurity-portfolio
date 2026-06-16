@@ -43,6 +43,7 @@ This experience provided practical exposure to real cybersecurity workflows and 
 I created a LinkedIn-style carousel summarising what I learned during my internship:
 
 📁 See: ![Inside_the_SOC.pdf](Slides/Inside_the_SOC.pdf) 
+
 📁 See: ![Internship Overview.pdf](Slides/Internship%Overview.pdf)
 
 ---
