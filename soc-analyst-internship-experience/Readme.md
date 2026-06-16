@@ -42,7 +42,7 @@ This experience provided practical exposure to real cybersecurity workflows and 
 
 I created a LinkedIn-style carousel summarising what I learned during my internship:
 
-📁 See: `/Slides/Inside_the_SOC.pdf` `/Slides/Internship Overview.pdf`
+📁 See: '/Slides/Inside_the_SOC.pdf` `/Slides/Internship Overview.pdf`
 
 ---
 
@@ -57,4 +57,3 @@ This internship confirmed my interest in pursuing a role as a:
 ## 📬 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/alyira/  
-- GitHub: https://github.com/halya-maker  
