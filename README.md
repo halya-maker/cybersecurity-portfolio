@@ -22,7 +22,7 @@ My goal is to grow into a cybersecurity professional capable of monitoring, anal
 
 My resume can be found in the Resume section of this repository.
 
-![View My CV Here.](Resume/'AlyaHumaira_SOC_CV.pdf)
+![View My CV Here.](Resume/AlyaHumaira_CV.pdf)
 
 ## Projects
 
