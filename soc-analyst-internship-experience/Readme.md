@@ -44,7 +44,7 @@ I created a LinkedIn-style carousel summarising what I learned during my interns
 
 📁 See: ![Inside_the_SOC](Slides/Inside_the_SOC.pdf) 
 
-📁 See: ![Internship Presentation Slide](Slides/Internship%Presentation%Slide.pdf)
+📁 See: ![Internship Presentation Slide](Slides/Internship_Presentation_Slide.pdf)
 
 ---
 
